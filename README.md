@@ -2,7 +2,12 @@
 
 This add-on allows to keep notes attached to tasks. Just one note per task is allowed.
 
-## Adding, editing notes
+## Requirement
+
+Refs: [GitHub - chrismdp/p: A simple yet powerful pomodoro tracker in pure Shell](https://github.com/chrismdp/p)
+(A simple yet powerful pomodoro tracker in pure Shell)
+
+## Usage
 
 * `p ITEM#`. Start a new pomodoro task with ITEM# name.
 
