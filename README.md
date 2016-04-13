@@ -10,6 +10,7 @@ Refs: [GitHub - chrismdp/p: A simple yet powerful pomodoro tracker in pure Shell
 ## Usage
 
 * `p ITEM#`. Start a new pomodoro task with ITEM# name.
+* `p TASK_NAME`. Create new task and start a new pomodoro task with ITEM# name.
 
 ## Example of use
 
